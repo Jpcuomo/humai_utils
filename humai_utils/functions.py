@@ -6,3 +6,6 @@ def saludar_comunidad():
 
 def informar_clase():
 	print('La siguiente clase es el lunes')
+
+def despedir_a_todos():
+    print('Nos vemos en Disney gente'

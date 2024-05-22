@@ -5,7 +5,7 @@ with open("DESCRIPTION.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name='humai_utils',
-    version='0.1.0',
+    version='0.1.1',
     author='Ramiro Savoie',
     author_email='ramiro@deployr.ai',
     description='A compilation of Humai utility functions',
